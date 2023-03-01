@@ -27,6 +27,7 @@ class Hello extends Module {
   io.led := blkReg
 }
 
+
 /**
  * An object extending App to generate the Verilog code.
  */
